@@ -1,0 +1,10 @@
+c:\users\admin\source\repos\ClusteringKMeans\ClusteringKMeans\bin\Debug\netcoreapp2.0\ClusteringKMeans.deps.json
+c:\users\admin\source\repos\ClusteringKMeans\ClusteringKMeans\bin\Debug\netcoreapp2.0\ClusteringKMeans.runtimeconfig.json
+c:\users\admin\source\repos\ClusteringKMeans\ClusteringKMeans\bin\Debug\netcoreapp2.0\ClusteringKMeans.runtimeconfig.dev.json
+c:\users\admin\source\repos\ClusteringKMeans\ClusteringKMeans\bin\Debug\netcoreapp2.0\ClusteringKMeans.dll
+c:\users\admin\source\repos\ClusteringKMeans\ClusteringKMeans\bin\Debug\netcoreapp2.0\ClusteringKMeans.pdb
+c:\users\admin\source\repos\ClusteringKMeans\ClusteringKMeans\obj\Debug\netcoreapp2.0\ClusteringKMeans.csproj.CoreCompileInputs.cache
+c:\users\admin\source\repos\ClusteringKMeans\ClusteringKMeans\obj\Debug\netcoreapp2.0\ClusteringKMeans.AssemblyInfoInputs.cache
+c:\users\admin\source\repos\ClusteringKMeans\ClusteringKMeans\obj\Debug\netcoreapp2.0\ClusteringKMeans.AssemblyInfo.cs
+c:\users\admin\source\repos\ClusteringKMeans\ClusteringKMeans\obj\Debug\netcoreapp2.0\ClusteringKMeans.dll
+c:\users\admin\source\repos\ClusteringKMeans\ClusteringKMeans\obj\Debug\netcoreapp2.0\ClusteringKMeans.pdb
